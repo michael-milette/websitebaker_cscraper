@@ -20,12 +20,6 @@ This module allows you to extract the contents from another webpage.
     warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
- -----------------------------------------------------------------------------------------
-	DEVELOPMENT HISTORY:
-   v0.10  by Michael Milette (mjm4842), 2011-02-13
-    + initial release of the Content Scraper module to the WB Community forum
- -----------------------------------------------------------------------------------------
-
 Notice: website content is protected by copyright laws. Do not scrape content from other sites unless you have written permission.
 
 Discussion forum:
