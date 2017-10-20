@@ -1,0 +1,39 @@
+/*
+  Website Baker Module: cScraper
+  Developed for the Open Source Content Management System WebsiteBaker (http://websitebaker.org).
+  Copyright (C) 2011 TNG Consulting Inc. All rights reserved.
+  Contact: http://www.tngconsulting.ca
+
+  Langugage: CSS
+  Purpose: Backend - Definitions used to display modify screen.
+
+  Licence: The contents of this file is free software.
+    You can redistribute and/or modify them under the terms of the
+    GNU General Public License - version 3 or later, as published
+    by the Free Software Foundation: http://www.gnu.org/licenses/gpl.html.
+
+  Warranty: The contents of this file is distributed in the hope that it
+    will be useful, but WITHOUT ANY WARRANTY; without even the implied
+    warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+*/
+
+.mod_cscraper_table_b {
+  background-color: #FFFFFF;
+  padding-left: 5px;
+}
+
+/*
+  The definitions below provide the style for the edit CSS button 
+*/
+input.mod_cscraper_edit_css {
+  color: #000;
+  background-color: #F0F0F0;
+  border: 1px solid gray;
+  padding: 2px;
+  margin: 0;
+  margin-left: 625px;
+  margin-top: -20px;
+  margin-bottom: 5px;
+  width: 110px;
+}
