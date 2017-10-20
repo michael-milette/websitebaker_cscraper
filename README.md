@@ -1,12 +1,17 @@
 # websitebaker_cscraper
 
 This module allows you to extract the contents from another webpage.
+
   Website Baker Module: cScraper
+  
   Developed for the Open Source Content Management System WebsiteBaker (http://websitebaker.org).
+  
   Copyright (C) 2011 TNG Consulting Inc. All rights reserved.
+  
   Contact: http://www.tngconsulting.ca
 
   Langugage: PHP
+  
   Purpose: Backend - Display information about this module.
            Also used by module installer.
 
